@@ -32,3 +32,24 @@ a {
 img {
   width: 100%;
 }
+h1 {
+    font-size: 100px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+      font-size: 22px;
+  
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    font-size: 18px;
+}
